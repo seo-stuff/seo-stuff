@@ -12,7 +12,7 @@
 ## 🌐 Социальные сети 
 
 - [YouTube](https://youtube.com/@seo_stuff) 🎥 - Обучающие видео по продвижению сайтов
-- [Telegram](https://t.me/heymoneymaker) 💬 - Заметки про SEO
+- [Telegram](https://t.me/heymoneymaker) 💬 - Заметки про SEO в Telegram
 - [GetGrowth](https://getgrowth.ru/) 🚀 - Блог (скоро)
 
 ## 🛠️ Услуги 
