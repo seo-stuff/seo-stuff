@@ -6,7 +6,7 @@
 
 - **Query Monitoring Analyzer** - Скрипт для анализа поисковых запросов из Яндекс.Вебмастера. [Посмотреть](https://github.com/seo-stuff/qma)
 - **Slug Analyzer 2.2 (ft Keys.so)** - Анализирует отчет о страницах из сервиса Keys.so, выявляя сильные стороны конкурентов на основе структуры URL. [Посмотреть](https://github.com/seo-stuff/slug-analyzer)
-- **Links Parser** - Парсинг сайтов с популярных бирж ссылок: Miralinks.ru / GoGetLinks.ru / Sape.ru и других [Посмотреть]([https://github.com/seo-stuff/slug-analyzer](https://github.com/seo-stuff/links-parser))
+- **Links Parser** - Парсинг сайтов с популярных бирж ссылок: Miralinks.ru / GoGetLinks.ru / Sape.ru и других [Посмотреть]([https://github.com/seo-stuff/slug-analyzer](https://github.com/seo-stuff/links-parser)
 - **Query Scores** - Чистка семантического ядра на основе конкурентов в топе, рассчитывает баллы для поисковых запросов, определяя целевые запросы. [Посмотреть](https://github.com/seo-stuff/qscores)
 - **QCompares** - Сравнение позиций между данными Яндекс.Вебмастера и сервисом проверки позиций Topvisor.com, обеспечивая точность анализа SEO-эффективности. [Посмотреть](https://github.com/seo-stuff/qcompares)
 
